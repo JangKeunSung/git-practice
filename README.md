@@ -4,6 +4,6 @@ Practicing Git &amp; Github for Collaboration.
 
 ## Who has been here?
 
-yes yes yes
+add Your Github Username below
 
 - [x] Max Williams
